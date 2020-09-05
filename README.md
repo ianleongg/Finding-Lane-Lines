@@ -55,22 +55,30 @@ The goals / steps of this project are the following:
    - left would be greater than 26.52deg 
    - right would be less than 153.48 deg 
 
-* Here are the results BEFORE the pipeline:
+* Here are the results **BEFORE** and **AFTER** the pipeline:
 
+* Example 1:
 ![alt text][image7]
-![alt text][image8]
-![alt text][image9]
-![alt text][image10]
-![alt text][image11]
-![alt text][image12]
-
-* Here are the results AFTER the pipeline:
-
 ![alt text][image1]
+
+* Example 2:
+![alt text][image8]
 ![alt text][image2]
+
+* Example 3:
+![alt text][image9]
 ![alt text][image3]
+
+* Example 4:
+![alt text][image10]
 ![alt text][image4]
+
+* Example 5:
+![alt text][image11]
 ![alt text][image5]
+
+* Example 6:
+![alt text][image12]
 ![alt text][image6]
 
 * Heres a link to watch the video of the pipeline:
